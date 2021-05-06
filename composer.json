@@ -5,5 +5,5 @@
     "require": {
         "composer/installers": "1.x-dev"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
