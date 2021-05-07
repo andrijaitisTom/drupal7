@@ -3,6 +3,6 @@
     "description": "accept bitcoin payments in your drupal project",
     "type": "drupal-module",
     "require": {
-        "composer/installers": "1.x-dev"
+        "composer/installers": "^1.10"
     }
 }
