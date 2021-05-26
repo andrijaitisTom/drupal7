@@ -1,8 +1,13 @@
 {
     "name": "sc_drupal/commerce_spectrocoin_drupal",
-    "description": "accept bitcoin payments in your drupal project",
+       "description": "SpectroCoin cryptocurrency payment gateway for Drupal",
     "type": "drupal-module",
+    "version": "1.0.0",
+    "keywords": [
+        "bitcoin", "btc", "xem", "dash", "spectrocoin", "merchant", "drupal", "gateway", "payment", "altcoin"
+      ],
     "require": {
         "composer/installers": "^1.10"
-    }
+    },
+    "license": "GPL-3.0+"
 }
